@@ -96,7 +96,7 @@ OsakaSpam.BorderSizePixel = 3
 OsakaSpam.Position = UDim2.new(0.0329767577, 0, 0.416372776, 0)
 OsakaSpam.Size = UDim2.new(0, 200, 0, 50)
 OsakaSpam.Font = Enum.Font.SourceSans
-OsakaSpam.Text = "Osaka Spam"
+OsakaSpam.Text = "333 Nazi Spam"
 OsakaSpam.TextColor3 = Color3.fromRGB(255, 255, 255)
 OsakaSpam.TextSize = 19.000
 
@@ -1011,7 +1011,7 @@ local function JWCSKU_fake_script() -- OsakaSpam.Script
 				end
 			end 
 		end
-		spam("139754471525947")
+		spam("109371162900913")
 		
 		-------------------------------------
 		
@@ -1280,7 +1280,7 @@ local function JWCSKU_fake_script() -- OsakaSpam.Script
 				end
 			end
 		end
-		Sky("139754471525947")
+		Sky("109371162900913")
 	end)
 end
 coroutine.wrap(JWCSKU_fake_script)()
