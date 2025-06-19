@@ -431,7 +431,7 @@ local function OSYCYTS_fake_script() -- Skybox.Script
 				end
 			end
 		end
-		Sky("135343366832115")
+		Sky("106526068845225")
 	end)
 end
 coroutine.wrap(OSYCYTS_fake_script)()
